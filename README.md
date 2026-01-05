@@ -55,7 +55,7 @@ This project focuses on practical AI usage, explainable decision-making, and cit
 **Technology Stack**
 - **Programming Language:** Python  
 - **Data Handling:** Pandas, NumPy  
-- **AI / ML Logic:** Rule-based scoring, ML ranking (future phase)  
-- **Backend:** Flask (planned)  
-- **Database:** CSV / JSON (initial), MongoDB (future)  
+- **AI / ML Logic:** Rule-based scoring, ML ranking  
+- **Backend:** Flask 
+- **Database:** CSV / JSON (initial), MongoDB 
 - **Version Control:** Git & GitHub
